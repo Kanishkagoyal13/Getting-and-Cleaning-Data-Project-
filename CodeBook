@@ -1,0 +1,11 @@
+Title : Getting and Cleaning Data
+By : Kanishka Goyal
+Date : 28-06-2020
+Output : FinalData.txt
+# CodeBook
+The final summary of the dataset "FinalData.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set.
+# Small Description
+The data in the dataset consists of 180 rows and 68 columns for mean value and standard deviation of each variable.
+# Indentifiers
+subject : the ID of the test subject
+activity : the type of activity performed when the measurements were taken.
